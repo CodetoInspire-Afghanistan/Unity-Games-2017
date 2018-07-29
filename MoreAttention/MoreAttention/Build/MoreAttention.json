@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GoodCitizen",
+"dataUrl": "MoreAttention.data.unityweb",
+"asmCodeUrl": "MoreAttention.asm.code.unityweb",
+"asmMemoryUrl": "MoreAttention.asm.memory.unityweb",
+"asmFrameworkUrl": "MoreAttention.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

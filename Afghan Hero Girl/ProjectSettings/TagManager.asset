@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Fire
+  - obstacle
+  - Platform
+  - Enemy
+  - EnemyHead
+  - PlayerFeet
+  - PlayerStuck
+  - MagicBottle
+  - Gem
+  - GameOverPanel
+  - PlayerSeeArea
+  - GameOverPanelStoper
+  - Killer
+  - Bullet
+  - Enemy1
+  - FxTemporaire
+  - PurpleWizard
+  - PrisetEnemy
+  - EnemySeeArea
+  - purpleBullet
+  - PrisetEnemySee
+  - Servitor
+  - Door1
+  - NextLevel
+  - Ladder
+  - BottleBullet
+  - Stop
+  - LevelOneBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Collectable
+  - Player
+  - Enemies
+  - fire
+  - Servitors
+  - purpleEnemy
+  - PrisetEnemySee
+  - snagOfEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4169007299
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2527427179
+    locked: 0
+  - name: UIElements
+    uniqueID: 3904104679
+    locked: 0

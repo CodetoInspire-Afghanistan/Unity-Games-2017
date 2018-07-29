@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SFXCtrl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DropingPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFXCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UICtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PirestEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BossHealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GarbageCollector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServitorCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MagicBottleCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelOneBossCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EdgeCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SimpleMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraCtrl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
